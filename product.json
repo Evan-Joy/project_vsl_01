@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"Adidas shoes 01",
+        "price": 200,
+        "image":"images/1.jpg"
+    },
+    {
+        "id":2,
+        "name":"Adidas shoes 02",
+        "price": 300,
+        "image":"images/2.jpg"
+    },
+    {
+        "id":3,
+        "name": "Nike shoes 01",
+        "price": 150,
+        "image":"images/3.jpg"
+    },
+    {
+        "id":4,
+        "name":"Adidas shoes 03",
+        "price": 250,
+        "image":"images/4.jpg"
+    },
+    {
+        "id":5,
+        "name":"Nike shoes 01",
+        "price": 200,
+        "image":"images/5.jpg"
+    },
+    {
+        "id":6,
+        "name":"Nike shoes 05",
+        "price": 280,
+        "image":"images/6.jpg"
+    },
+    {
+        "id":7,
+        "name":"Adidas shoes 01",
+        "price": 200,
+        "image":"images/7.jpg"
+    },
+    {
+        "id":8,
+        "name":"Adidas shoes 01",
+        "price": 200,
+        "image":"images/8.jpg"
+    },
+    {
+        "id":9,
+        "name":"Adidas shoes 01",
+        "price": 200,
+        "image":"images/9.jpg"
+    },
+    {
+        "id":10,
+        "name":"Adidas shoes 01",
+        "price": 200,
+        "image":"images/10.jpg"
+    },
+    {
+        "id":11,
+        "name":"Adidas shoes 01",
+        "price": 200,
+        "image":"images/11.jpg"
+    },
+    {
+        "id":12,
+        "name":"Adidas shoes 01",
+        "price": 200,
+        "image":"images/12.jpg"
+    }
+]
